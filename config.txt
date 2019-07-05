@@ -1,5 +1,5 @@
 owner=535754489492406275
-prefix=#
+prefix=!
 game=playing
 stayinchannel=true
 songinstatus=false
